@@ -1,0 +1,2 @@
+# Gitpractice
+* Welcome to git
