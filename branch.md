@@ -1,2 +1,1 @@
-* Welcome to new branch
-** test Pull request
+* Reproducing the merge conflict
